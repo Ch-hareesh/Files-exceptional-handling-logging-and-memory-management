@@ -1,0 +1,4 @@
+2025-08-14 21:40:46,431, ERROR : The file 'e:\VSD codes\python\PW skills - DS and Gen AI\Files, exceptional handling, logging\Assignment 1\file24.txt' does not exist. Cannot read.
+2025-08-14 21:41:06,862, ERROR : The file 'e:\VSD codes\python\PW skills - DS and Gen AI\Files, exceptional handling, logging\Assignment 1\file24.txt' does not exist. Cannot read.
+2025-08-14 21:42:02,158, ERROR : The file 'e:\VSD codes\python\PW skills - DS and Gen AI\Files, exceptional handling, logging\Assignment 1\file24.txt' does not exist. Cannot read.
+2025-08-14 21:50:29,514, INFO : This is an info message with log rotation enabled.
